@@ -1,0 +1,17 @@
+ .postHead{
+    display: flex;
+    align-items:flex-start;
+    margin: 10px;
+    padding-left: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+.posts{
+    flex: 9;
+    display: flex;
+    flex-wrap:wrap;
+    margin: 50px;
+    
+}

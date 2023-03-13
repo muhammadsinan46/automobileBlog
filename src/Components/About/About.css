@@ -1,0 +1,30 @@
+.about{
+    display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+    height: 500px;
+    
+   
+}
+.aboutContainer{
+    flex: 9;
+    width: 100%;
+    height: 250px;
+    margin-top: 8%;
+    padding-left: 50px;
+    
+
+}
+.aboutTitle{
+    font-size: 25px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.aboutInfo{
+    margin-right: 5rem;
+    align-items: center;
+    font-size: 18px;
+    line-height: 24px;
+    align-items:baseline;
+    
+}
